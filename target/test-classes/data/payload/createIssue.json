@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "TES"
+    },
+    "summary": "REST ye merry gentlemen.",
+    "issuetype": {
+      "name": "Task"
+    }
+  }
+}

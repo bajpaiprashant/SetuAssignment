@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "TES"
+    },
+    "summary": "REST ye merry gentlemen.",
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Order entry fails when selecting supplier.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "issuetype": {
+      "name": "Task"
+    }
+  }
+}
